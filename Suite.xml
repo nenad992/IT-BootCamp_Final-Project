@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<test name="HomePageTest">
+		<classes>
+			<class name="main_testing.HomePageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="SummerDressesPageTest">
+		<classes>
+			<class name="main_testing.SummerDressesTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="RegistrationPageTest1">
+		<classes>
+			<class name="main_testing.RegistrationPageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="SignInTest1">
+		<classes>
+			<class name="main_testing.SignInTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+  
+ 

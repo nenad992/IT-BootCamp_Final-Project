@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-02T23:09:35 CEST" name="Suite" finished-at="2020-04-02T23:24:36 CEST" duration-ms="900806">
+    <groups>
+    </groups>
+    <test started-at="2020-04-02T23:09:35 CEST" name="HomePageTest" finished-at="2020-04-02T23:10:11 CEST" duration-ms="35380">
+      <class name="main_testing.HomePageTest">
+        <test-method is-config="true" signature="tests()[pri:0, instance:main_testing.HomePageTest@25d250c6]" started-at="2020-04-02T23:09:35 CEST" name="tests" finished-at="2020-04-02T23:09:39 CEST" duration-ms="4035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tests -->
+        <test-method signature="dresses_SummerDressesTest()[pri:0, instance:main_testing.HomePageTest@25d250c6]" started-at="2020-04-02T23:09:39 CEST" name="dresses_SummerDressesTest" finished-at="2020-04-02T23:09:51 CEST" duration-ms="11392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresses_SummerDressesTest -->
+        <test-method signature="samePage()[pri:0, instance:main_testing.HomePageTest@25d250c6]" started-at="2020-04-02T23:09:51 CEST" name="samePage" finished-at="2020-04-02T23:10:03 CEST" duration-ms="12368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samePage -->
+        <test-method signature="women_SummerDressesTest()[pri:0, instance:main_testing.HomePageTest@25d250c6]" started-at="2020-04-02T23:10:03 CEST" name="women_SummerDressesTest" finished-at="2020-04-02T23:10:10 CEST" duration-ms="7373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women_SummerDressesTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:main_testing.HomePageTest@25d250c6]" started-at="2020-04-02T23:10:10 CEST" name="finish" finished-at="2020-04-02T23:10:11 CEST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- main_testing.HomePageTest -->
+    </test> <!-- HomePageTest -->
+    <test started-at="2020-04-02T23:10:11 CEST" name="SummerDressesPageTest" finished-at="2020-04-02T23:10:34 CEST" duration-ms="23022">
+      <class name="main_testing.SummerDressesTest">
+        <test-method is-config="true" signature="tests()[pri:0, instance:main_testing.SummerDressesTest@4b5a5ed1]" started-at="2020-04-02T23:10:11 CEST" name="tests" finished-at="2020-04-02T23:10:13 CEST" duration-ms="2544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tests -->
+        <test-method signature="addingDress()[pri:0, instance:main_testing.SummerDressesTest@4b5a5ed1]" started-at="2020-04-02T23:10:13 CEST" name="addingDress" finished-at="2020-04-02T23:10:32 CEST" duration-ms="18294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingDress -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:main_testing.SummerDressesTest@4b5a5ed1]" started-at="2020-04-02T23:10:32 CEST" name="finish" finished-at="2020-04-02T23:10:34 CEST" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- main_testing.SummerDressesTest -->
+    </test> <!-- SummerDressesPageTest -->
+    <test started-at="2020-04-02T23:10:34 CEST" name="RegistrationPageTest1" finished-at="2020-04-02T23:20:14 CEST" duration-ms="580296">
+      <class name="main_testing.RegistrationPageTest">
+        <test-method is-config="true" signature="tests()[pri:0, instance:main_testing.RegistrationPageTest@433d61fb]" started-at="2020-04-02T23:10:34 CEST" name="tests" finished-at="2020-04-02T23:10:36 CEST" duration-ms="2611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tests -->
+        <test-method signature="registrationForm()[pri:0, instance:main_testing.RegistrationPageTest@433d61fb]" started-at="2020-04-02T23:10:36 CEST" name="registrationForm" finished-at="2020-04-02T23:11:10 CEST" duration-ms="33667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationForm -->
+        <test-method signature="registrationForm30()[pri:0, instance:main_testing.RegistrationPageTest@433d61fb]" started-at="2020-04-02T23:11:10 CEST" name="registrationForm30" finished-at="2020-04-02T23:20:12 CEST" duration-ms="541695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationForm30 -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:main_testing.RegistrationPageTest@433d61fb]" started-at="2020-04-02T23:20:12 CEST" name="finish" finished-at="2020-04-02T23:20:14 CEST" duration-ms="2320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- main_testing.RegistrationPageTest -->
+    </test> <!-- RegistrationPageTest1 -->
+    <test started-at="2020-04-02T23:20:14 CEST" name="SignInTest1" finished-at="2020-04-02T23:24:36 CEST" duration-ms="261984">
+      <class name="main_testing.SignInTest">
+        <test-method is-config="true" signature="tests()[pri:0, instance:main_testing.SignInTest@363ee3a2]" started-at="2020-04-02T23:20:14 CEST" name="tests" finished-at="2020-04-02T23:20:17 CEST" duration-ms="2719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tests -->
+        <test-method signature="singInTest()[pri:0, instance:main_testing.SignInTest@363ee3a2]" started-at="2020-04-02T23:20:17 CEST" name="singInTest" finished-at="2020-04-02T23:24:36 CEST" duration-ms="259026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singInTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:main_testing.SignInTest@363ee3a2]" started-at="2020-04-02T23:24:36 CEST" name="finish" finished-at="2020-04-02T23:24:36 CEST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- main_testing.SignInTest -->
+    </test> <!-- SignInTest1 -->
+  </suite> <!-- Suite -->
+</testng-results>
